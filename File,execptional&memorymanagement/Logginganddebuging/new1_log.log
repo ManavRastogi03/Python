@@ -1,0 +1,3 @@
+2025-02-18 00:40:56,474 DEBUG THis is my debug message
+2025-02-18 00:40:56,474 INFO This is my info msg
+2025-02-18 00:40:56,474 WARNING This is the warning

@@ -1,0 +1,13 @@
+INFO:root:This is my normal information about the software
+WARNING:root:There can be empty list hare
+CRITICAL:root:The software has stopped
+INFO:root:This is my info msg
+WARNING:root:This is the warning
+INFO:root:This is my info msg
+WARNING:root:This is the warning
+INFO:root:This is my info msg
+WARNING:root:This is the warning
+INFO:root:This is my info msg
+WARNING:root:This is the warning
+INFO:root:This is my info msg
+WARNING:root:This is the warning

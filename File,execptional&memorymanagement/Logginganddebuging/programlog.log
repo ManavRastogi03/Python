@@ -1,0 +1,37 @@
+
+2025-02-18 01:03:40,540 INFO processing the each element 1
+2025-02-18 01:03:40,545 INFO processing the each element [4, 'as']
+2025-02-18 01:03:40,545 INFO Processing the sublist element: 4
+2025-02-18 01:03:40,545 INFO Processing the sublist element: as
+2025-02-18 01:03:40,545 INFO processing the each element hiii
+2025-02-18 01:03:40,546 INFO processing the each element [1, 'derr']
+2025-02-18 01:03:40,546 INFO Processing the sublist element: 1
+2025-02-18 01:03:40,546 INFO Processing the sublist element: derr
+2025-02-18 01:03:40,546 INFO The result is : [1], ['hiii']
+2025-02-18 01:05:07,945 INFO processing the each element 1
+2025-02-18 01:05:07,949 INFO processing the each element [4, 'as']
+2025-02-18 01:05:07,949 INFO Processing the sublist element: 4
+2025-02-18 01:05:07,949 INFO Processing the sublist element: as
+2025-02-18 01:05:07,949 INFO processing the each element hiii
+2025-02-18 01:05:07,949 INFO processing the each element [1, 'derr']
+2025-02-18 01:05:07,949 INFO Processing the sublist element: 1
+2025-02-18 01:05:07,949 INFO Processing the sublist element: derr
+2025-02-18 01:05:07,951 INFO The result is : [1, 4, 1], ['as', 'hiii', 'derr']
+2025-02-18 01:05:13,513 INFO processing the each element 1
+2025-02-18 01:05:13,514 INFO processing the each element [4, 'as']
+2025-02-18 01:05:13,514 INFO Processing the sublist element: 4
+2025-02-18 01:05:13,514 INFO Processing the sublist element: as
+2025-02-18 01:05:13,514 INFO processing the each element hiii
+2025-02-18 01:05:13,515 INFO processing the each element [1, 'derr']
+2025-02-18 01:05:13,515 INFO Processing the sublist element: 1
+2025-02-18 01:05:13,515 INFO Processing the sublist element: derr
+2025-02-18 01:05:13,515 INFO The result is : [1, 4, 1], ['as', 'hiii', 'derr']
+2025-02-18 01:05:28,414 INFO processing the each element 1
+2025-02-18 01:05:28,414 INFO processing the each element [4, 'as']
+2025-02-18 01:05:28,414 INFO Processing the sublist element: 4
+2025-02-18 01:05:28,414 INFO Processing the sublist element: as
+2025-02-18 01:05:28,414 INFO processing the each element hiii
+2025-02-18 01:05:28,414 INFO processing the each element [1, 'derr']
+2025-02-18 01:05:28,414 INFO Processing the sublist element: 1
+2025-02-18 01:05:28,414 INFO Processing the sublist element: derr
+2025-02-18 01:05:28,414 INFO The result is : [1, 4, 1], ['as', 'hiii', 'derr']
